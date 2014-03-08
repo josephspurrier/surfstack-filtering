@@ -77,3 +77,6 @@ var_dump(SurfStack\Filtering\Validate::url('http://example.com'));
 var_dump(SurfStack\Filtering\Validate::url('example.com'));
 
 ```
+
+There are a few tests that failed on PHP 5.3.3 and HipHop VM 2.4.0 so I removed
+them. Take a look at the tests to how the filters behave on different version of PHP.
