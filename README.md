@@ -1,4 +1,4 @@
-SurfStack Wrapper for filter_var in PHP [![Build Status](https://travis-ci.org/josephspurrier/surfstack-filtering.png?branch=master)](https://travis-ci.org/josephspurrier/filtering)
+SurfStack Wrapper for filter_var in PHP [![Build Status](https://travis-ci.org/josephspurrier/surfstack-filtering.png?branch=master)](https://travis-ci.org/josephspurrier/surfstack-filtering)
 ===============================
 
 The Validate class checks to see if the data meets certain qualifications. The
