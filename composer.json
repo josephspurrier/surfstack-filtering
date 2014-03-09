@@ -11,7 +11,7 @@
             "homepage": "http://josephspurrier.com"
         }
     ],
-    "version": "1.0.0",
+    "version": "0.2-beta",
     "require": {
         "php": ">=5.3.0"
     },
