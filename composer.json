@@ -1,4 +1,17 @@
 {
+   "name": "josephspurrier/surfstack-filtering",
+    "description": "Wrapper for validation and sanitation with filter_var",
+    "keywords": ["filter", "validation"],
+    "homepage": "https://github.com/josephspurrier/surfstack-filtering",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Joseph Spurrier",
+            "homepage": "http://josephspurrier.com"
+        }
+    ],
+    "version": "1.0.0",
     "require": {
         "php": ">=5.3.0"
     },
