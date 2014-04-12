@@ -80,6 +80,5 @@ var_dump(SurfStack\Filtering\Validate::url('example.com'));
 
 There are a few tests that failed on PHP 5.3.3 and HipHop VM 2.4.0 so I removed
 them. Take a look at the tests to how the filters behave on different version of PHP.
-The class has 100% code coverage.
 
 To install using composer, use the code from the Wiki page [Composer Wiki page](https://github.com/josephspurrier/surfstack-filtering/wiki/Composer).
